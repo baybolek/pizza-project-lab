@@ -1,4 +1,4 @@
-package com.cydeo.pizzacloud.controller;
+package com.domain.pizzacloud.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;

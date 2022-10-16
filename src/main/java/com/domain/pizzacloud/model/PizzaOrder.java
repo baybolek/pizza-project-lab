@@ -1,4 +1,4 @@
-package com.cydeo.pizzacloud.model;
+package com.domain.pizzacloud.model;
 
 import lombok.Data;
 

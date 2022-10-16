@@ -1,8 +1,8 @@
-package com.cydeo.pizzacloud.controller;
+package com.domain.pizzacloud.controller;
 
-import com.cydeo.pizzacloud.bootstrap.DataGenerator;
-import com.cydeo.pizzacloud.model.Pizza;
-import com.cydeo.pizzacloud.repository.PizzaRepository;
+import com.domain.pizzacloud.bootstrap.DataGenerator;
+import com.domain.pizzacloud.model.Pizza;
+import com.domain.pizzacloud.repository.PizzaRepository;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;

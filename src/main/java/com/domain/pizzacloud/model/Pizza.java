@@ -1,8 +1,8 @@
-package com.cydeo.pizzacloud.model;
+package com.domain.pizzacloud.model;
 
-import com.cydeo.pizzacloud.enums.Cheese;
-import com.cydeo.pizzacloud.enums.Sauce;
-import com.cydeo.pizzacloud.enums.Topping;
+import com.domain.pizzacloud.enums.Cheese;
+import com.domain.pizzacloud.enums.Sauce;
+import com.domain.pizzacloud.enums.Topping;
 import lombok.Data;
 
 import java.util.List;

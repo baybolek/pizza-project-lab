@@ -1,4 +1,4 @@
-package com.cydeo.pizzacloud.enums;
+package com.domain.pizzacloud.enums;
 
 public enum Cheese {
 

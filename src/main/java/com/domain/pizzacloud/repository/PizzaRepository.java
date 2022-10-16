@@ -1,7 +1,6 @@
-package com.cydeo.pizzacloud.repository;
+package com.domain.pizzacloud.repository;
 
-import com.cydeo.pizzacloud.model.Pizza;
-import org.springframework.beans.factory.annotation.Autowired;
+import com.domain.pizzacloud.model.Pizza;
 import org.springframework.stereotype.Component;
 
 import java.util.ArrayList;

@@ -1,15 +1,13 @@
-package com.cydeo.pizzacloud.controller;
+package com.domain.pizzacloud.controller;
 
-import com.cydeo.pizzacloud.exception.PizzaNotFoundException;
-import com.cydeo.pizzacloud.model.Pizza;
-import com.cydeo.pizzacloud.model.PizzaOrder;
-import com.cydeo.pizzacloud.repository.PizzaRepository;
-import org.springframework.beans.factory.annotation.Autowired;
+import com.domain.pizzacloud.exception.PizzaNotFoundException;
+import com.domain.pizzacloud.model.Pizza;
+import com.domain.pizzacloud.model.PizzaOrder;
+import com.domain.pizzacloud.repository.PizzaRepository;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.*;
 
-import javax.websocket.server.PathParam;
 import java.util.UUID;
 
 @Controller
